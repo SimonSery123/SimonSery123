@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @SimonSery123
-- 👀 I’m interested in backend/ fullstack development
-- 🌱 I’m currently learning Java and depths of Node.js
-- 💞️ I’m looking to collaborate on anything
+- 👋 Hi, I’m @SimonSery123. I'm a developer with passion for new tech and AI workflows implementator.
 - 📫 How to reach me: LinkedIn message or ssery2@seznam.cz
 
 
