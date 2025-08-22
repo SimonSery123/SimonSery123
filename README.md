@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SimonSery123. I'm a developer with passion for new tech and AI workflows implementator.
+- 👋 Hi, I’m @SimonSery123. I'm a developer with passion for new tech and AI workflows implementor.
 - 📫 How to reach me: LinkedIn message or ssery2@seznam.cz
 
 
